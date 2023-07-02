@@ -487,6 +487,7 @@ body {
 .btn__primary {
   color: #fff;
   background-color: #000;
+  width: 100%;
 }
 .btn__primary:disabled {
   color: darkgrey;
